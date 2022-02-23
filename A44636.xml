@@ -1,0 +1,418 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Trinity asserted a sermon preach'd before the Lord-Mayor and aldermen of the city of London, at the cathedral church of St. Paul, upon Trinity-Sunday, Anno Dom. 1700 / John Howard.</title>
+            <author>Howard, John, 1647-1729?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 63 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A44636</idno>
+            <idno type="STC">Wing H2983</idno>
+            <idno type="STC">ESTC R15897</idno>
+            <idno type="EEBO-CITATION">11849683</idno>
+            <idno type="OCLC">ocm 11849683</idno>
+            <idno type="VID">49912</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A44636)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49912)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 498:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Trinity asserted a sermon preach'd before the Lord-Mayor and aldermen of the city of London, at the cathedral church of St. Paul, upon Trinity-Sunday, Anno Dom. 1700 / John Howard.</title>
+                  <author>Howard, John, 1647-1729?</author>
+               </titleStmt>
+               <extent>31 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Lawrence,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Epistles of John, 1st, V, 7 --  Sermons.</term>
+               <term>Trinity --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="half_title">
+            <pb facs="tcp:49912:1" rendition="simple:additions"/>
+            <p>Mr. <hi>HOWARD</hi>'s SERMON Preach'd Before The Lord-Mayor and Aldermen of the City of <hi>LONDON,</hi> AT THE Cathedral Church of St. <hi>PA<g ref="char:V">Ʋ</g>L,</hi> upon <hi>Trinity-Sunday, Anno Dom.</hi> 1700.</p>
+            <pb facs="tcp:49912:1"/>
+         </div>
+         <div type="imprimatur">
+            <pb facs="tcp:49912:2"/>
+            <p>Levett Mayor.</p>
+            <p>
+               <hi>Jovis</hi> 20 <hi>die</hi> Junii, 1700. <hi>Annoque Regni Regis</hi> Willielmi <hi>Tertii,</hi> Angliae, <hi>&amp;c. Duodecimo.</hi>
+            </p>
+            <p>THIS Court doth Deſire Mr. <hi>How<g ref="char:EOLhyphen"/>ard</hi> to Print his Sermon, Preach'd on <hi>Trinity-Sunday</hi> laſt, before the Lord-Mayor and Aldermen of this City, at the Cathedral Church of St. <hi>Paul</hi>'s.</p>
+            <p>
+               <hi>Goodfellow.</hi>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:49912:2"/>
+            <p>
+               <hi>The TRINITY Aſſerted.</hi>
+            </p>
+            <p>A SERMON PREACH'D BEFORE The Lord-Mayor and Aldermen of the City of <hi>LONDON,</hi> AT THE Cathedral Church of St. <hi>PA<g ref="char:V">Ʋ</g>L,</hi> upon <hi>Trinity-Sunday, Anno Dom.</hi> 1700.</p>
+            <p>By <hi>JOHN HOWARD,</hi> M. A. Rector of <hi>Marſton-Truſſel</hi> in <hi>Northamptonſhire.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>J. Lawrence,</hi> at the <hi>Angel</hi> in the <hi>Poultry.</hi> 1700.</p>
+            <pb facs="tcp:49912:3"/>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:49912:3"/>
+            <head>To the Right Honourable <hi>Sir Richard Levett,</hi> Lord-Mayor of the City of <hi>London.</hi>
+            </head>
+            <opener>
+               <salute>My LORD,</salute>
+            </opener>
+            <p>IN Obedience to the Order I receiv'd from your Lordſhip and the Court of Aldermen, I have now Publiſh'd the Sermon lately preach'd before you, with the Addition of ſome Things, which, through the Strait<g ref="char:EOLhyphen"/>neſs of my Time, were then omitted, and do moſt humbly preſent it to your Lordſhip. I ſhould not have thought it fit for Publick View, after ſo many Excel<g ref="char:EOLhyphen"/>lent Diſcourſes as have been printed within a few Years, in Defence of the Doctrine of the <hi>Trinity;</hi> neither would I have ventur'd to preach to ſuch an Auditory, upon ſo Great and Venerable a Myſtery, if the Time, to which I was confin'd by a Particular Providence, had not requir'd it. But as that Pro<g ref="char:EOLhyphen"/>vidence will, I hope, Juſtifie me in Chooſing ſuch a Subject; ſo the Authority of your Lordſhip and your
+<pb facs="tcp:49912:4"/>Honourable Brethren will Vindicate me in Publiſhing my Diſcourſe upon it.</p>
+            <p>I pray God convince thoſe <g ref="char:V">Ʋ</g>nhappy Men in our Days, who have deſerted the Faith they were baptized into, and deny the Lord that bought them, (for I am ſure a meer Man could never do it,) that they may eſcape the Deſtruction he hath threaten'd to them. And that the ſame God would continually bleſs your Lord<g ref="char:EOLhyphen"/>ſhip, and give Succeſs to your Pious Endeavours to ſuppreſs Error and Wickedneſs, in an Age and Place that need all your Authority and Zeal to that End, is alſo the hearty Prayer of,</p>
+            <closer>
+               <salute>My LORD,</salute> 
+               <signed>Your Lordſhip's moſt Humble and Faithful Servant, <hi>John Howard.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:49912:4"/>
+            <epigraph>
+               <q>
+                  <bibl>1 JOHN V. 7.</bibl>
+                  <p>For there are three that bear record in hea<g ref="char:EOLhyphen"/>ven, the Father, the Word, and the Holy Ghoſt, and theſe three are one.</p>
+               </q>
+            </epigraph>
+            <p>BEFORE I ſpeak to the Doctrine contain'd in theſe Words, it will be neceſſary to ſay ſomething towards the removing an Objection that hath been made againſt them, as if they were not a Genuine Part of this Chapter; becauſe they are omitted in ſome <hi>Greek</hi> Copies. In Anſwer to which, It might be enough to ſatisfie unpre<g ref="char:EOLhyphen"/>judic'd Men, to ſay that they are in the Beſt and moſt Anci<g ref="char:EOLhyphen"/>ent <hi>Greek</hi> Manuſcripts, and have been conſtantly retain'd in the <hi>Vulgar Latin,</hi> (as ſeveral worthy Authors aſſure us;) and they might more eaſily be left out in ſome Copies by an Over<g ref="char:EOLhyphen"/>ſight in the Tranſcribers, than fraudulently inſerted into others: Yet becauſe it hath been ſaid by ſome (who would have the World think ſo,) that this Verſe was added in Op<g ref="char:EOLhyphen"/>poſition to the <hi>Arians,</hi> I muſt ſay farther, that this could not be,<note place="margin">De <g ref="char:V">Ʋ</g>nit. Eccleſ.</note> becauſe we find it quoted by St. <hi>Cyprian</hi> before <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rius</hi> his Time. And indeed the Orthodox, as they had no need to do this, having the Scripture ſo plainly and fully on their ſide, in many other Places; ſo they muſt have ventur'd ſuch an Hazard in it as no wiſe Men would expoſe themſelves to. For the Detection of ſuch a Forgery, which they would have Reaſon enough to fear, would have done a great Inju<g ref="char:EOLhyphen"/>ry to their Reputation, and to a Cauſe which they valued more than their Lives.</p>
+            <pb n="8" facs="tcp:49912:5"/>
+            <p>It is therefore more Reaſonable to ſuppoſe that the <hi>Arians</hi> raz'd this Verſe out of ſuch Copies as they could come by; for their deſperate Cauſe did more need the miſerable Supports of Fraud and Sacrilege, and the Men were fitter for the Practice of them.<note place="margin">Socr. Hiſt. Eccl. l. <hi>7.</hi> c. <hi>32.</hi>
+               </note> And ſome of the Ancients complain of their corrupting ſeveral Places of Scripture, and particularly of this Epiſtle; and there is no Expreſſion in it they could take more Offence at than this,<note place="margin">Hiſt. Tri<g ref="char:EOLhyphen"/>part. l. <hi>12.</hi> c. <hi>4.</hi>
+               </note> though there are ſeveral others that plainly condemn them and their impious Doctrines. Beſides theſe Teſtimonies, the Verſe it ſelf doth, I think, ſufficiently aſſert its Right to this Place, by the Agreement it hath with the foregoing and fol<g ref="char:EOLhyphen"/>lowing Verſes.</p>
+            <p>The Apoſtle's main Deſign in this Chapter is to prove that Jeſus is the Chriſt, the Son of God; that is, the Eternal Son of God, of the ſame Nature with the Father, as well as Man; (as I ſhall prove in the following Diſcourſe) and this he doth by the Witneſſes mention'd at the 6, 7, and 8 Verſes. But the <hi>Water</hi> and the <hi>Blood</hi> in two of thoſe Ver<g ref="char:EOLhyphen"/>ſes, whether we underſtand them literally, as they came out of our Saviour's Side, when his Body was pierc'd upon the Croſs; or in a figurative Senſe, for his Holineſs and Suf<g ref="char:EOLhyphen"/>ferings, can prove no more than the Truth of his Human Nature; nor the Spirit that is join'd with them, if it be meant of his Soul which he yielded up to the Father upon the Croſs, as ſome underſtand it. And if we take it for the Spirit of God, as it was given to our Saviour in an ex<g ref="char:EOLhyphen"/>traordinary meaſure, it doth not neceſſarily prove any more than the Excellency of his Perſon as a Man, and that he was highly in Favour with God the Father. Though there are other Things to be ſaid indeed concerning the Spirit, that infallibly prove the Divinity of Chriſt, which will more properly be ſpoken of him, as he is mentioned in my Text.</p>
+            <pb n="9" facs="tcp:49912:5"/>
+            <p>Now if nothing more had been ſaid by the Apoſtle in this Place than what is aſſerted concerning theſe Three Wit<g ref="char:EOLhyphen"/>neſſes in the 6 and 8 Verſes, they would have afforded us but a dark Proof at the beſt of what he mainly intends; but his adding Three more at the 7th. Verſe, puts the Mat<g ref="char:EOLhyphen"/>ter out of all doubt. I might further ſhew the Agreement between this and the other two Verſes, and how Defective the Senſe of this Place will be without it; but I hope what hath been ſaid already is ſufficient to prove the Di<g ref="char:EOLhyphen"/>vine Authority of theſe Words; and I am ſo far from thinking the worſe of them for the Violence done to them by ſacrilegious Hands in ſome ancient Copies, that I can<g ref="char:EOLhyphen"/>not but have a greater Veneration for them, in that they have ſuffer'd a kind of Martyrdom in that Glorious Cauſe which they aſſert.</p>
+            <p>In ſpeaking to theſe Words, I ſhall
+<list>
+                  <item>I. Endeavour to ſhew you what theſe Three are that are here mentioned.</item>
+                  <item>II. Give ſome Account of the Record they bear concern<g ref="char:EOLhyphen"/>ing the <hi>Meſſias.</hi>
+                  </item>
+               </list>
+            </p>
+            <p n="1">I. I ſhall endeavour to ſhew you what theſe Three are in the following Particulars:
+<list>
+                  <item>1. Every One of theſe is the Great and Moſt High God.</item>
+                  <item>2. They are not ſo many different Names of the ſame Perſon, but Three Subſiſtences, or Perſons really diſtinct from one another.</item>
+                  <item>3. I ſhall ſhew what Relation they have to each other.</item>
+                  <item>4. I ſhall prove that theſe Three are One God.</item>
+               </list>
+            </p>
+            <p n="1">1. <hi>Every One of theſe is the Great and Moſt High God.</hi>
+               <list>
+                  <item>1. The Father is ſo; but I need not ſay any thing to prove this, becauſe it is acknowledged by thoſe who deny the
+<pb n="10" facs="tcp:49912:6"/>Trinity, that all the Glorious Titles, Perfections and Works of the Deity are attributed to him, and that to him belongs Divine Honour and Worſhip from his Creatures: That he is an Infinite and Eternal Being, Glorious in Holineſs and Fearful in Praiſes; a God of all Power and Might, Truth and Righteouſneſs, Wiſdom and Goodneſs; in a word, that of Him, and through Him, and to Him are all Things. Therefore I proceed,</item>
+                  <item>2. To ſpeak of <hi>the Word,</hi> or <hi>the Son,</hi> who alſo is God, in the ſame Senſe with <hi>the Father,</hi> as will abundantly appear to all unprejudiced Men from the Names by which he is call'd, the Perfections aſcrib'd to him, the Works he is ſaid to do, and the Honour and Worſhip which all Intelligent Creatures are requir'd to give him, in the Holy Scriptures.</item>
+               </list>
+            </p>
+            <p n="1">1. The Names he is called by; as, the Name of <hi>God, Jehovah,</hi> the <hi>Son of God,</hi> and <hi>the Word.</hi>
+            </p>
+            <p>The Name of <hi>God</hi> is very frequently given to Chriſt both in the <hi>Old</hi> and <hi>New Teſtament.</hi> The <hi>Pſalmiſt</hi> ſpeaking of him,<note place="margin">Pſ. 49.6.</note> ſays, <hi>Thy Throne, O God, is for ever and ever;</hi> and the Prophet <hi>Iſaiah</hi> calls him the <hi>mighty God.</hi>
+               <note place="margin">Iſa. 9.6.</note> St. <hi>Thomas</hi> plainly owns his Divinity in theſe Words,<note place="margin">Joh. 20.28</note> 
+               <hi>My Lord and my God.</hi> When St. <hi>Luke</hi> ſays of the <hi>Jews, they ſtoned Stephen, calling upon God,</hi>
+               <note place="margin">Acts <hi>7.59.</hi>
+               </note> 
+               <hi>and ſaying, Lord Jeſus receive my ſpirit;</hi> he teaches us, that Jeſus is the God he prayed to. And St. <hi>Paul</hi> in exhorting the Elders of <hi>Epheſus</hi> to feed the Church of God,<note place="margin">Acts 20.28.</note> which he hath purchaſed with his own Blood, doth aſſure us, that the ſame Perſon who ſhed his Blood for us upon the Croſs is the God of the Church.<note place="margin">Rom. 9.5.1 Tim. 3.16.1 Joh. 5.20.</note> This Apoſtle tells us alſo of Chriſt, that he is over all, <hi>God bleſſed for ever;</hi> and that <hi>God was manifeſt in the Fleſh:</hi> And St. <hi>John</hi> affirms of him, that <hi>he is the true God.</hi> Now if it be ſaid of one or two of theſe Places, that the word <hi>[God]</hi> is not in ſome an<g ref="char:EOLhyphen"/>cient Copy or Verſion, this Omiſſion might eaſily happen through the Miſtake of a Tranſcriber, and ought not to be accounted any Prejudice to thoſe Places, ſeeing they are en<g ref="char:EOLhyphen"/>tire
+<pb n="11" facs="tcp:49912:6"/>in all other Copies. And tho' ſome object, that the Name of God is given to Magiſtrates in the Scripture, and therefore doth not prove the Divinity of Chriſt, they ought to ſee that it is applied to him, after a very different man<g ref="char:EOLhyphen"/>ner, and with ſuch Diſtinctions as cannot belong to any Creature: For what Chriſtian durſt ever call a Magiſtrate, <hi>my God,</hi> as St. <hi>Thomas</hi> calls our Saviour? or ſay, he is <hi>God bleſſed for ever,</hi> or the <hi>true and mighty God,</hi> as the Scripture terms him?</p>
+            <p>The Name <hi>Jehovah,</hi> which is the incommunicable Name of the Great God, is alſo given to him. Thoſe Words, <hi>Pſal.</hi> 102.25. <hi>Thou haſt laid the foundation of the earth, and the heavens are the work of thy hands;</hi> are applied to Chriſt, <hi>Heb.</hi> 1.10. and yet the ſame Perſon, of whom they are ſpoken, is called <hi>Jehovah</hi> no leſs than ſeven or eight times in that <hi>Pſalm.</hi> The Prophet <hi>Iſaiah,</hi> ſpeaking of Chriſt and his Forerunner, ſaith, <hi>Chap.</hi> 40.3. <hi>The voice of him that crieth in the wilderneſs, Prepare ye the way of the Lord, make ſtrait in the deſart a high-way for our God.</hi> There is no que<g ref="char:EOLhyphen"/>ſtion but the Perſon, whoſe Way <hi>John the Baptiſt</hi> (who is here meant by him that <hi>cries in the wilderneſs</hi>) was to pre<g ref="char:EOLhyphen"/>pare, was Chriſt the Son of God; therefore it is he whom the Prophet calls, <hi>not only our God, but the Lord,</hi> (that is <hi>Jehovah,</hi>) in the 2d. and 5th. <hi>Verſes</hi> of that <hi>Chapter.</hi> But the Prophet <hi>Jeremiab</hi> is yet more expreſs, when ſpeaking of the <hi>Meſſias,</hi> as a <hi>righteous branch,</hi> and a <hi>King that ſhould de<g ref="char:EOLhyphen"/>ſcend from David,</hi> Chap. 23. he ſays, <hi>Ver.</hi> 6. <hi>In his days Judah ſhall be ſaved, and Iſrael ſhall dwell ſafely: and this is his name whereby he ſhall be called, The Lord our Righteouſneſs.</hi> A Place ſufficient, one would think, of it ſelf, to ſatisfie any that Chriſt is the True and Eternal God, were it not obſcur'd a little by the Repetition of it with ſome difference, <hi>Chap.</hi> 33.16. where it is in our Tranſlation, <hi>This is the name wherewith ſhe ſhall be called. The Lord our Righteouſneſs.</hi> And ſome Interpreters underſtand it in the ſame Senſe, as if
+<pb n="12" facs="tcp:49912:7"/>this Name was applied here to <hi>Jeruſalem,</hi> or the Church; and from hence ſome conclude it is not the incommunicable Name of God, and that nothing more is ſaid of Chriſt in the Place before-mentioned than of the Church in this. Now how well the Words in the Original will bear that In<g ref="char:EOLhyphen"/>terpretation, I ſhall not determine; but I think they are very capable of another, (which hath been alſo given them by ſome Learned Men,) namely this, <hi>And he who ſhall call her,</hi> (that is, <hi>Jeruſalem</hi> before-mention'd,) <hi>is the Lord our Righ<g ref="char:EOLhyphen"/>teouſneſs.</hi> And tho' there is ſome difference in the <hi>Hebrew,</hi> between this and the other Place, yet the Authors of the ſe<g ref="char:EOLhyphen"/>veral Learned Verſions taking the Senſe to be the ſame in both, do not only apply this to the <hi>Meſſias,</hi> but render it in the ſame Words as they do the other, with very little Alte<g ref="char:EOLhyphen"/>ration in any of them. And if we allow of that Interpre<g ref="char:EOLhyphen"/>tation which applies this Name to <hi>Jeruſalem,</hi> yet it can be<g ref="char:EOLhyphen"/>long to it no otherwiſe than as the Church hath a Relation to him, and is Intereſted in his Righteouſneſs who is pro<g ref="char:EOLhyphen"/>perly call'd by it.</p>
+            <p>The Name of the <hi>Son of God,</hi> as it is given to Chriſt, and is to be underſtood of his Only-begotten Son, as he is ſometimes call'd, is a further Proof of his Divinity: For this denotes a more Eminent Relation than that which be<g ref="char:EOLhyphen"/>longs to his Human Nature, either from his Conception, or his Reſurrection from the Dead: For tho' he was conceiv'd by the immediate Power and Operation of the Holy Ghoſt, and for this Reaſon is ſometimes call'd the <hi>Son of God,</hi> yet we cannot ſay he had much the Advantage of <hi>Adam</hi> in this, who by the ſame efficient Cauſe was formd out of the Duſt of the Ground, as Chriſt was of the Subſtance of the Vir<g ref="char:EOLhyphen"/>gin; and therefore <hi>Adam</hi> is call'd the <hi>Son of God</hi> in a pecu<g ref="char:EOLhyphen"/>liar Senſe, diſtinct from that Relation which other good Men have to him.<note place="margin">Luke. 3.38.</note> The Holy Angels have alſo the ſame Re<g ref="char:EOLhyphen"/>lation to God, for this Reaſon, who made them eminently
+<pb n="13" facs="tcp:49912:7"/>Partakers of his own Nature, and conſtituted them in a State of Happineſs and Immortality.</p>
+            <p>And tho' our Saviour was made the Son of God, in ano<g ref="char:EOLhyphen"/>ther Reſpect, by his Reſurrection from the Dead, as Saint <hi>Paul</hi> explains the Words of the <hi>Pſalmiſt,</hi> when he ſaith, <hi>God hath rais'd up Jeſus again;</hi>
+               <note place="margin">Acts 13.33.</note> as it is alſo written in the Second <hi>Pſalm, Thou art my ſon, this day have I begotten thee;</hi> and he may from hence be fitly term'd (as he is) <hi>the firſt-born from the dead, and the firſt-fruits of them that ſlept;</hi> yet he can no more be call'd the <hi>Only-begotten Son of God</hi> for this Reaſon, than the Firſt-born of a numerous Iſſue can be ſaid to be all the Children, or the Firſt-fruits the whole Crop: For it is evident, from many Places of Scripture, that the Church ſhall be alſo rais'd to a Glorious State, and thoſe very Terms, <hi>the Firſt-born</hi> and <hi>the Firſt-fruits</hi> are us'd to aſſure us of it; and on this Account they are call'd <hi>the Children of God</hi> by our Bleſſed Saviour, who ſaith,<note place="margin">Luke 20.35, 36.</note> 
+               <hi>They which ſhall be accounted worthy to obtain that world, and the reſurrection from the dead, neither marry, nor are given in marriage, neither can they die any more: For they are equal unto the angels, and are the children of God, being the chil<g ref="char:EOLhyphen"/>dren of the reſurrection.</hi> Now what difference ſoever there was between the Perfections of <hi>Adam</hi> and Chriſt, as Man, or between the Glory he was rais'd to, and that which the Saints ſhall have hereafter, this cannot properly diſtinguiſh his Relation to God the Father from theirs: For tho' a Firſt-born, who hath many Brethren, ſhould have a greater Inheritance than all of them, and a Right of Dominion too (as the Ancient Patriarchs had) over the whole Family, yet he cannot juſtly be call'd the Only Son for theſe, or any other Advantages he might have above the reſt.</p>
+            <p>Chriſt is therefore call'd the <hi>Son of God,</hi> chiefly in reſpect of his Divine Nature; and ſo the Ancient <hi>Jews</hi> underſtood this Term, as it was applied to the <hi>Meſſias.</hi> Therefore, upon Occaſion of Chriſt's calling God his Father, it is ſaid,
+<pb n="14" facs="tcp:49912:8"/>
+               <hi>The Jews ſought the more to kill him,</hi>
+               <note place="margin">Joh. 5.18.</note> 
+               <hi>becauſe he not only had broken the Sabbath, but ſaid alſo, that God was <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, his own, or his proper Father, making himſelf equal with God.</hi> Je<g ref="char:EOLhyphen"/>ſus was now generally look'd upon as the profeſs'd <hi>Meſſias,</hi> becauſe <hi>John the Baptiſt</hi> had given a Publick Teſtimony con<g ref="char:EOLhyphen"/>cerning him, which was confirm'd on all Occaſions by his Diſciples, and had been confeſs'd by himſelf: Therefore the <hi>Jews</hi> having a Notion of that Eminent Relation which the <hi>Meſſias</hi> had to God the Father, as his Eternal Son; when they heard our Saviour mention God as his Father, put a ve<g ref="char:EOLhyphen"/>ry different Senſe upon theſe Words from what they would have done from another Perſon; and becauſe they did not believe him to be the Chriſt, they interpreted them to his Diſadvantage: For tho' they themſelves were ready to ſay, upon Occaſion,<note place="margin">Joh 8.41.</note> 
+               <hi>We have one Father, even God;</hi> yet they accounted ſuch an Expreſſion from our Saviour to be Blaſ<g ref="char:EOLhyphen"/>phemy, and attempted ſeveral times to put him to Death for it. And this was the pretended Crime for which he was at laſt condemn'd: For the High-Prieſt having not ſuch Wit<g ref="char:EOLhyphen"/>neſs againſt him as he deſired,<note place="margin">Mat. 26.63, <hi>&amp;c.</hi>
+               </note> put an Oath upon him to tell him whether he were the Chriſt, the <hi>Son of God;</hi> to which, when our Saviour had intimated his Conſent, <hi>the High-Prieſt rent his cloaths, ſaying, he hath ſpoken blaſphemy; and asking the judgment of the council concerning it, they all pronounced him to be guilty of death.</hi>
+            </p>
+            <p>But the Diſciples believing that he was the Chriſt, did alſo acknowledge him to be <hi>the Son of God</hi> (in the Senſe before-mention'd) in ſeveral Confeſſions which they made to him: But I ſhall now only take notice of ſuch as were attended with ſome Remarkable Circumſtances, which will help us to underſtand the Meaning of them. When our Lord had done two Miracles together, walking himſelf with <hi>Peter</hi> upon the Sea in a Tempeſt, and cauſing the Wind to ceaſe on the ſudden;<note place="margin">Mat. 14.33.</note> 
+               <hi>ſo ſoon as he was come into the ſhip, the diſciples, and others that were with them, came and worſhipped
+<pb n="15" facs="tcp:49912:8"/>him, ſaying, of a truth thou art the ſon of God.</hi> By which Words, it appears they acknowledg'd him to be God, be<g ref="char:EOLhyphen"/>cauſe they gave him Divine Worſhip at the ſame time: And if they had committed a Miſtake in theſe Things, there is no queſtion but our Saviour would have corrected it in them. The like Adoration was alſo given to Chriſt by the Man who was born blind,<note place="margin">Joh. 9.38.</note> ſo ſoon as he underſtood from him that he was the Son of God.</p>
+            <p>But nothing is more Remarkable to this Purpoſe, than <hi>Martha</hi> her Confeſſion, who, when our Saviour had ask'd her,<note place="margin">Joh. 11.25, <hi>&amp;c.</hi>
+               </note> whether ſhe believ'd him to be <hi>the Reſurrection and the Life,</hi> (that is, that he could by his own Power raiſe Men from the Dead to Life again) and that <hi>Faith</hi> in him would ſave them from <hi>Death, and make them Partakers of Everla<g ref="char:EOLhyphen"/>ſting Life?</hi> ſhe anſwers him, <hi>Yea, Lord, I believe that thou art the Chriſt, the Son of God, which ſhould come into the world.</hi> So that this Confeſſion did imply as much, in her Opinion, as that Chriſt was Omnipotent, and the Great Object of a Divine and Saving Faith: And in that ſhe ſaith, <hi>the Son of God, which ſhould come into the world;</hi> this ſuppo<g ref="char:EOLhyphen"/>ſes it was formerly believ'd the <hi>Meſſias</hi> ſhould be ſuch a Per<g ref="char:EOLhyphen"/>ſon.</p>
+            <p>There are ſeveral other Teſtimonies in the Goſpel to this Purpoſe, but I ſhall add but one more from St. <hi>John</hi> himſelf, which gives a great Confirmation to all the reſt, who ſpeak<g ref="char:EOLhyphen"/>ing of the Signs which Jeſus did, ſaith, <hi>Theſe are written,</hi>
+               <note place="margin">Joh. 20.31.</note> 
+               <hi>that ye might believe that Jeſus is the Chriſt the Son of God; and that believing, ye might have life through his name.</hi> Theſe Words, <hi>Jeſus is the Chriſt the Son of God,</hi> are certainly meant of his being God as well as Man, becauſe many Signs done by him did plainly prove it. And in this Chapter the Apo<g ref="char:EOLhyphen"/>ſtle mentions two of them, namely, our Saviour's Appear<g ref="char:EOLhyphen"/>ing two ſeveral times in a miraculous manner to his Diſci<g ref="char:EOLhyphen"/>ples; the latter of which Appearances drew that Confeſſion from St. <hi>Thomas, My Lord, and my God.</hi> And it is Re<g ref="char:EOLhyphen"/>markable,
+<pb n="16" facs="tcp:49912:9"/>that immediately after theſe Words, and Chriſt's Anſwer to them, the Apoſtle adds, <hi>many other ſigns did Je<g ref="char:EOLhyphen"/>ſus in the preſence of his diſciples, which are not written in this book; but theſe are written that ye might believe that Jeſus is the Chriſt the Son of God;</hi> which Words have, no doubt, a particular Reſpect to <hi>Thomas</hi> his Confeſſion, as thoſe which follow have to our Saviour's Anſwer to him: For Chriſt ha<g ref="char:EOLhyphen"/>ving ſaid to <hi>Thomas, Becauſe thou haſt ſeen me, thou haſt be<g ref="char:EOLhyphen"/>lieved; bleſſed are they that have not ſeen, and yet have believed.</hi> The Apoſtle tells us how far this Bleſſing goeth, even <hi>to Eter<g ref="char:EOLhyphen"/>nal Life,</hi> in theſe Words, <hi>and that believing, ye might have life through his name.</hi>
+            </p>
+            <p>And indeed, the Occaſion of St. <hi>John</hi>'s writing this Goſ<g ref="char:EOLhyphen"/>pel, and the Arguments that are every where contain'd in it, do ſufficiently prove this Truth: For this Goſpel was writ<g ref="char:EOLhyphen"/>ten by him at the Requeſt of the Elders of <hi>Epheſus,</hi> and other Chriſtians, as we are aſſur'd from good Authority, in Oppoſition to the <hi>Ebeonites</hi> and <hi>Cerinthians,</hi> who denied the Divinity of our Saviour; and whoſoever reads it, may ſee the Apoſtle makes it his main Buſineſs to aſſure the World that he is God. This he affirms at the very begin<g ref="char:EOLhyphen"/>ning of his Goſpel, and records many of our Saviour's Sayings, by which he aſſerted it, and ſeveral of his chief Miracles, by which he prov'd it, that are omitted by the other Evangeliſts. And if this appears to have been his chief Deſign in this Goſpel, (as certainly it was) who can doubt of his Meaning in the Place before-mention'd, (which is near the Concluſion of it,) where he ſaith, <hi>Theſe are writ<g ref="char:EOLhyphen"/>ten, that ye might believe that Jeſus is the Chriſt the Son of God?</hi> Now this, with the other Citations which I men<g ref="char:EOLhyphen"/>tion'd before, will clear the Senſe of thoſe Expreſſions in this Chapter of my Text;<note place="margin">Ver. <hi>1.</hi> Ver. <hi>5.</hi>
+               </note> 
+               <hi>Whoſoever believeth that Jeſus is the Chriſt, is born of God: And who is he that overcometh the World, but he that believeth that Jeſus is the Son of God?</hi> that they aſſert him to be God as well as Man: And there<g ref="char:EOLhyphen"/>fore
+<pb n="17" facs="tcp:49912:9"/>this is the Doctrine which the Apoſtle proves in the following Verſes, as I ſaid before, and I hope have now made it more evident to you.</p>
+            <p>The laſt Name which I ſhall mention, as given to Chriſt, is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, render'd <hi>the Word;</hi> under which Name St. <hi>John</hi> ſaith, <hi>Chap.</hi> 1.1. that he was <hi>in the beginning,</hi> that is, be<g ref="char:EOLhyphen"/>fore the World was created, as appears not only from the ſame Expreſſion us'd in that Senſe in the firſt Chapter of <hi>Ge<g ref="char:EOLhyphen"/>neſis,</hi> but becauſe all things are ſaid to be made by him, <hi>ver.</hi> 3. which ſuppoſes he was before them; and becauſe Time began with the Creation of the World, therefore the <hi>Word</hi> which was before it muſt be Eternal: And the Apoſtle here expreſly affirms, that <hi>the Word was God, and that this Word was made fleſh, and dwelt among us, and was the only-begotten of the father,</hi> v. 14. <hi>the ſame perſon whom John the Baptist bare witneſs of, namely, Jeſus Christ,</hi> as in the following Verſes. And the Notion of <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, as it is underſtood of a Divine Perſon, who, together with God the Father made the World, was well known amongſt the <hi>Jews,</hi> as appears from many Places in the <hi>Chaldae</hi> Paraphraſe, where <hi>the Word</hi> is added to explain the Senſe more fully when there is only <hi>[God]</hi> or <hi>[Lord]</hi> in the Original;<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Vid. <hi>Bi<g ref="char:EOLhyphen"/>ſhop of</hi> Worceſt. Vindic. of Trin. <hi>p. 128.</hi>
+               </note> and it is render'd by ſuch a Term as ſeve<g ref="char:EOLhyphen"/>ral Learned Men aſſure us is us'd there to ſignifie <hi>the Word</hi> only in the Senſe of a Perſon. And I think any indifferent Reader would underſtand it of a Perſonal <hi>Word</hi> in many (if not all thoſe) Places wherein it is found, and particu<g ref="char:EOLhyphen"/>larly in theſe. It is ſaid in that Paraphraſe,<note place="margin">Gen. 6.6.</note> 
+               <hi>It repented the Lord, with his word, that he had made man upon the earth. Then ſhall the word of the Lord be my God.</hi>
+               <note place="margin">Gen. 28.21. Ex. 19.17. Lev. 26.46. Deut. 1.30.</note> 
+               <hi>Moſes</hi> brought forth the People to meet the <hi>Word of God: Theſe are the ſta<g ref="char:EOLhyphen"/>tutes, and judgments, and laws, which the Lord made between his word and the children of Iſrael. The word of the Lord your God, which goeth before you, he ſhall fight for you, accord<g ref="char:EOLhyphen"/>ing to all that he did for you in Egypt before your eyes. The
+<pb n="18" facs="tcp:49912:10"/>word of the Lord the God is a conſuming fire,</hi>
+               <note place="margin">Deut. 4.24. Chap. 31.6.8. Job 42.9, 10, 12.</note> 
+               <hi>a jealous God. The word of the Lord thy God will go before thee, he will not fail thee, nor forſake thee. The word of the Lord accepted the face of Job. And the word of the Lord turn'd the captivity of Job,</hi> &amp;c. <hi>So the word of the Lord bleſſed the latter end of Job more than the beginning.</hi>
+            </p>
+            <p>Now to be choſen by <hi>Jacob</hi> as his God; to meet his People; to be a Party in a Covenant between himſelf and them; to conduct his People, and fight for them; to ac<g ref="char:EOLhyphen"/>cept of <hi>Job</hi>'s Perſon, to turn his Captivity, to bleſs and en<g ref="char:EOLhyphen"/>rich him; and to be a conſuming Fire, a jealous God; do all ſuppoſe a Perſon, and ſome of them plainly aſſert that he is God. The ancient <hi>Jews</hi> therefore, who had a great Ve<g ref="char:EOLhyphen"/>neration for this Paraphraſe, and were oblig'd to read it conſtantly with the <hi>Hebrew</hi> Text, did believe, from theſe and many other Places in it, that there was a Divine Sub<g ref="char:EOLhyphen"/>ſtance called <hi>the Word,</hi> by whom God made the World.</p>
+            <p>So <hi>Philo</hi> the <hi>Jew,</hi> ſpeaking of God the Father of all, mentions another Divine Perſon,<note place="margin">Quaeſt. &amp; Solut. De Agri<g ref="char:EOLhyphen"/>cult.</note> whom he calls <hi>the Word, and his Only-begotten Son, by whom he made the World.</hi> From whence we may conclude, that St. <hi>John</hi> firſt received the Notion of <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> from the <hi>Jews;</hi> and he ſpeaks ſo briefly of it at the Beginning of his Goſpel, becauſe it was commonly known to them. Tho' it is true alſo, that many of the Heathens had receiv'd the Doctrine of the Trinity, and the Notion of <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> the Second Perſon in it, either from ancient Tradition, or the Scriptures, which were read by ſeveral Learned Men amongſt them. But <hi>Plato</hi> was eſpecially noted for it; there<g ref="char:EOLhyphen"/>fore when <hi>Amelius,</hi> who was one of his Followers, read this Goſpel of St. <hi>John,</hi> he challeng'd this Notion of the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, as if it was taken from <hi>Plato.</hi> But there is no Reaſon to think he receiv'd a Notion from any Heathen, which he knew was better underſtood by the <hi>Jews,</hi> and was well ac<g ref="char:EOLhyphen"/>quainted with thoſe Places of Scripture upon which it was grounded.</p>
+            <pb n="19" facs="tcp:49912:10"/>
+            <p>Now St. <hi>John</hi> doth not only call Chriſt <hi>the Word</hi> in that Place, and in my Text, but mentions him alſo as <hi>the Word of Life</hi> at the beginning of this Epiſtle; and ſpeaking of him, <hi>Rev.</hi> 19.13. he ſaith, <hi>His name is called the word of God.</hi> Neither is St. <hi>John</hi> the only Writer of the <hi>New Teſta<g ref="char:EOLhyphen"/>ment</hi> who applies this Name to Chriſt; but St. <hi>Luke</hi> ſeems to uſe it in the ſame Senſe,<note place="margin">Luke 1.2.</note> when he ſpeaks of the Apoſtles as <hi>eye-witneſſes and miniſters of the word;</hi> for that Word of which they were Eye-witneſſes, was our Lord himſelf. And this Senſe of that Place is more probable, becauſe St. <hi>Peter</hi> uſes the ſame Expreſſion with reſpect to Chriſt, and ſaith (of himſelf and the other Apoſtles) that <hi>they were eye-witneſ<g ref="char:EOLhyphen"/>ſes of his majesty:</hi>
+               <note place="margin">2 Pet. 1.16.</note> And in the Epiſtle to the <hi>Hebrews</hi> this Di<g ref="char:EOLhyphen"/>vine <hi>Word</hi> is mention'd, and the Omniſcience of God attri<g ref="char:EOLhyphen"/>buted to him; <hi>The word of God is quick, and powerful,</hi>
+               <note place="margin">Heb. 4.12.</note> 
+               <hi>and ſharper than any two-edged ſword, piercing even to the dividing aſunder of ſoul and ſpirit, and of the joints and marrow, and is a diſcerner of the thoughts and intents of the heart:</hi> That is, he perfectly ſees the State of our Souls, knows all our Thoughts, diſtinguiſhes between what is good and evil in them; he can awaken our Conſciences to feel Remorſe for Sin, and work what Change in us he pleaſes. And then it follows, <hi>Neither is there any Creature that is not manifest in his ſight; but all things are naked and open'd unto the eyes of him,</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>concerning whom we ſpeak,</hi> or with whom our preſent Buſineſs is, and that is Chriſt, who is the Subject of this latter part of the Chapter, and mention'd as well before as after theſe Verſes I have read to you.</p>
+            <p n="2">2. The Perfections of God are aſcrib'd to <hi>the Word,</hi> or <hi>the Son.</hi> Some of theſe I have occaſionally mention'd in ſpeaking to thoſe Names which are given to him in Scrip<g ref="char:EOLhyphen"/>ture, and therefore ſhall now ſpeak more briefly to them. His Eternity was hinted to under the Name of <hi>the Word,</hi> at the beginning of St. <hi>John</hi>'s Goſpel, and the Name <hi>Jehovah</hi>
+               <pb n="20" facs="tcp:49912:11"/>doth alſo imply it; but there are ſeveral Expreſſions more full and plain to this Purpoſe.<note place="margin">Iſa. 9.6. Rev. 1.8, 17.</note> The Prophet <hi>Iſaiah</hi> calls him <hi>the everlasting father;</hi> and he himſelf ſaith, <hi>I am Alpha and O<g ref="char:EOLhyphen"/>mega, the beginning and the ending; which is, and which was, and which is to come.</hi> And again, <hi>I am the first and the last;</hi> the ſame which God ſaith of himſelf, <hi>Iſaiah</hi> 44.6. <hi>I am the first, and I am the last, and beſides me there is no God.</hi> So Chriſt aſſerts his Eternity,<note place="margin">Joh. 8.58.</note> when he ſaith, <hi>Before Abraham was, I am;</hi> where he uſes the very Term by which God made himſelf known to the <hi>Iſraelites,</hi>
+               <note place="margin">Ex. 3.14.</note> which denotes his Eternity. This appears alſo from thoſe Places in the Goſpel, where Chriſt ſaith, he <hi>came from God, from Heaven,</hi> &amp;c.</p>
+            <p>The Infinity of Chriſt is alſo aſſerted by himſelf, when he ſaith,<note place="margin">Mat. 18.20. Chap. 28.20. Joh. 3.13.</note> 
+               <hi>Where two or three are gathered together in my name, there am I in the midſt of them;</hi> When he tells his Diſciples, <hi>I am with you alway, even unto the end of the world;</hi> and when he affirms, <hi>No man hath aſcended up to heaven, but he that came down from heaven, even the ſon of man which is in heaven;</hi> where we are plainly taught, that at the ſame time Chriſt was upon Earth, he was alſo in Heaven, and there<g ref="char:EOLhyphen"/>fore fill'd all Places. And it is remarkable, that he here calls himſelf <hi>the Son of Man,</hi> to aſſure us, that he who was Man, was alſo the Eternal and Infinite <hi>Son of God,</hi> and ſo was one and the ſame Perſon in two ſo diſtinct Natures.</p>
+            <p>The Omnipotence of God, which we had Occaſion to take Notice of in our Saviour before, is attributed to him by the Apoſtle,<note place="margin">Heb. 1.3.</note> who ſaith, <hi>he upholds all things by the word of his power;</hi> and plainly intimated in that Promiſe of Chriſt, <hi>Whatſoever ye ſhall ask in my name,</hi>
+               <note place="margin">Joh. 14.13</note> 
+               <hi>that will I do, that the fa<g ref="char:EOLhyphen"/>ther may be glorified in the ſon:</hi> For he muſt have all Power who can do whatſoever his People ſhall deſire. Yea, he hath expreſly told us,<note place="margin">Rev. 1.8.</note> that he is <hi>the Almighty.</hi>
+            </p>
+            <p>His Omniſcience, of which we had before a remarkable Proof out of the Epiſtle to the <hi>Hebrews,</hi> where he is called <hi>the
+<pb n="21" facs="tcp:49912:11"/>Word of God,</hi> is alſo atteſted by St. <hi>John,</hi> where he ſaith of ſome of our Saviour's Followers,<note place="margin">Joh. 2.24, 25.</note> that <hi>Jeſus did not commit himſelf unto them, becauſe he knew all men, and needed not that any ſhould testifie of man; for he knew what was in man.</hi> It is acknowledg'd by St. <hi>Peter,</hi> in theſe Words, <hi>Lord,</hi>
+               <note place="margin">Joh. 21.17.</note> 
+               <hi>thou knoweſt all things.</hi> It is affirm'd by St. <hi>Paul,</hi> when he ſaith, <hi>In him are hid all the treaſures of wiſdom and knowledge;</hi>
+               <note place="margin">Col. 2.3. Rev. 2.23.</note> and it is aſſerted by himſelf in theſe Words, <hi>I am he which ſearch<g ref="char:EOLhyphen"/>eth the reins and hearts; and I will give unto every one of you according to your works.</hi>
+            </p>
+            <p>In a word, he hath all the Perfections of God the Father; for he ſaith, <hi>All things that the father hath are mine:</hi>
+               <note place="margin">Joh. 16.15.</note> So that the Eſſence, the Attributes, and the Glory of God do be<g ref="char:EOLhyphen"/>long to him. And St. <hi>Paul</hi> aſſures us,<note place="margin">Col. 2.9.</note> that <hi>in him dwells all the fulneſs of the Godhead bodily.</hi> None can deny that Chriſt is meant in this Place; for the Apoſtle is ſpeaking of him here for many Verſes together: He mentions his Name ſeve<g ref="char:EOLhyphen"/>ral times, and immediately before theſe Words. And it is evident that they aſcribe all the Perfections of the Deity to Chriſt, as plainly as any can do. The Word <hi>[bodily]</hi> in<g ref="char:EOLhyphen"/>deed that is here added, is capable of different Interpreta<g ref="char:EOLhyphen"/>tions; but whether we take it for wholly and entirely (as it may well be meant) or eſſentially and perſonally, becauſe it was uſual with the <hi>Greeks</hi> (as it is with us) to call a Per<g ref="char:EOLhyphen"/>ſon, a Body; it doth not only confirm what was ſaid be<g ref="char:EOLhyphen"/>fore, but denotes the hypoſtatical Union of the Divine and Human Nature in Chriſt. Or, if we will allow it to be on<g ref="char:EOLhyphen"/>ly meant, in the Body, or, together with it; though in this Senſe it adds nothing to the Character of his Divinity before given, yet it can detract nothing from it. On the account of theſe Perfections in Chriſt,<note place="margin">Col. 1.15.</note> he is call'd <hi>the Image of the inviſible God; the Brightneſs of his Father's Glory,</hi>
+               <note place="margin">Heb. 1.3.</note> 
+               <hi>and the expreſs Image of his Perſon;</hi>
+               <note place="margin">Phil. 2.6.</note> he is ſaid to be <hi>in the form of God, and equal with him.</hi>
+            </p>
+            <pb n="22" facs="tcp:49912:12"/>
+            <p n="3">3. The Works of God are alſo attributed to the Son. He tells us himſelf, that <hi>what things ſoever the father doth, theſe alſo doth the Son likewiſe.</hi>
+               <note place="margin">Joh 5.19.</note> And as it is ſaid in the beginning of St. <hi>John</hi>'s Goſpel, that <hi>he made all things;</hi> ſo the Apoſtle af<g ref="char:EOLhyphen"/>firms that <hi>God made the Worlds by him,</hi>
+               <note place="margin">Heb. 1.2.</note> (not as an inſtrumen<g ref="char:EOLhyphen"/>tal, but a principal efficient Cauſe.) The word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, there render'd the <hi>Worlds,</hi> properly ſignifies <hi>Ages;</hi> but becauſe Time was created together with the World, and it is the Meaſure of all material things, therefore it is ſometimes us'd ſiguratively for the World, the Creation of which is aſcrib'd to Chriſt again,<note place="margin">Ver. 10.</note> in theſe Words, <hi>Thou, Lord, in the beginning haſt laid the foundation of the earth, and the heavens are the works of thine hands.</hi> The Senſe of which Place is expreſs'd more fully and particularly by St. <hi>Paul,</hi> when he ſaith,<note place="margin">Col. 1.16, 17.</note> 
+               <hi>By him were all things created that are in hea<g ref="char:EOLhyphen"/>ven, and that are in earth, viſible and inviſible, whether they be thrones, or dominions, or principalities, or powers: all things were created by him and for him. And he is before all things, and by him all things conſiſt.</hi>
+            </p>
+            <p>The Works of Providence are alſo his; for he is ſaid to <hi>uphold all things;</hi>
+               <note place="margin">Heb. 1.3.</note> and this he could not do without infinite Wiſdom and Power, to ſupply every Creature with what is neceſſary to maintain its Being. <hi>He forgives ſins againſt God,</hi>
+               <note place="margin">Luk. 5.21.</note> 
+               <hi>which none but God can do;</hi> as the Scribes and Phari<g ref="char:EOLhyphen"/>ſees argued truly, tho' they miſapplied it with reſpect to our Saviour. To theſe Things I might add the Miracles wrought by him, which did alſo atteſt his Divinity, becauſe he did them by his own Power; the raiſing himſelf from the dead, ſending the Holy Ghoſt upon his Diſciples, and en<g ref="char:EOLhyphen"/>abling them to do the ſame miraculous Works as he him<g ref="char:EOLhyphen"/>ſelf had done.</p>
+            <p n="4">4. We are to give Divine Worſhip to the Son, the ſame that is due to the Father. Our Saviour, in ſaying to his Diſ<g ref="char:EOLhyphen"/>ciples, <hi>Ye believe in God,</hi>
+               <note place="margin">Joh. 14.1.</note> 
+               <hi>believe alſo in me,</hi> doth teach them
+<pb n="23" facs="tcp:49912:12"/>that he is an Object of Faith and Worſhip <hi>equally with God the father;</hi> and tells them, that <hi>all men ſhould honour the ſon,</hi>
+               <note place="margin">Chap. 5.23.</note> 
+               <hi>as they honour the father.</hi> The ſame is requir'd of the Angels too,<note place="margin">Heb. 1.6.</note> in thoſe Words which the Apoſtle quotes out of the <hi>Pſalms, Let all the angels of God worſhip him.</hi> And yet that is an Eternal Law which our Saviour mentions,<note place="margin">Mat. 4.10:</note> 
+               <hi>Thou ſhalt worſhip the Lord thy God, and him only ſhalt thou ſerve.</hi> There<g ref="char:EOLhyphen"/>fore (to ſay nothing of the Apoſtles refuſing Worſhip ſeve<g ref="char:EOLhyphen"/>ral times from others, becauſe they were but Men) when St. <hi>John</hi> (through ſome Miſtake) went about to worſhip an Angel that ſpake to him two ſeveral times,<note place="margin">Rev. 19.10. Chap. 22.8, 9.</note> he charges him ſtrictly not to do it, becauſe he was but the Servant of God, (and the beſt of Creatures, even Chriſt himſelf in his Hu<g ref="char:EOLhyphen"/>man Nature is no more,) and referrs him to the true and on<g ref="char:EOLhyphen"/>ly Object of Worſhip, which is God.</p>
+            <p>But we read of many worſhipping our Saviour upon dif<g ref="char:EOLhyphen"/>ferent Occaſions, without any Prohibition from him, and amongſt others, his own Diſciples did it, both before and after his Reſurrection; yet they received not the leaſt Check for it, neither did our Saviour at any other time caution them againſt it, or give them any Hint that he was diſpleas'd with it; tho' he did ever moſt freely inſtruct, warn, and reprove them, as there was Cauſe for it. And can it be ſaid our Sa<g ref="char:EOLhyphen"/>viour was leſs zealous for the Honour of God than the An<g ref="char:EOLhyphen"/>gel that appeared to St. <hi>John?</hi> Or was there a Diſpenſation granted to the World to worſhip a Creature, during our Sa<g ref="char:EOLhyphen"/>viour's Miniſtry, which was not allow'd either before or af<g ref="char:EOLhyphen"/>ter it? No, the Adverſaries to the Doctrine of the <hi>Trinity</hi> have a Fetch beyond this, That Chriſt was made God, and is therefore to be worſhipp'd. But what is made, cannot be truly God, becauſe Eternity doth neceſſarily belong to his Nature; and whatever is made, is a Creature, and Servant to him that made it, and therefore is not to receive Divine Worſhip, as the Angel argues. But our Saviour being <hi>the
+<pb n="24" facs="tcp:49912:13"/>True and Eternal God, as well as Man,</hi> did not only ſuffer ſuch Worſhip to be given to him, but hath taught us that it is a General Duty, (as was ſaid before;) and therefore when St. <hi>Stephen</hi> had a Viſion of him, a little before his Death,<note place="margin">Acts 7.59, 60.</note> he kneeled down and pray'd to him to <hi>receive his Spirit, and to forgive his Murderers.</hi>
+            </p>
+            <p>I have now ſaid what I thought neceſſary to prove the Divinity of our Bleſſed Saviour, and have been the larger and more particular upon it, becauſe the Belief of the <hi>Trinity</hi> doth mainly depend upon this Proof. I ſhall therefore be very brief in ſpeaking to what follows.</p>
+            <p n="3">3. The <hi>Holy Ghoſt is alſo the Great and Moſt High God,</hi> as appears by the very ſame Arguments which prove the Divi<g ref="char:EOLhyphen"/>nity of the <hi>Word,</hi> or <hi>Son,</hi> before-mention'd, taken from the Names, Properties, Works, and Worſhip of God.</p>
+            <p n="1">1. The Names of God are given to him. He is called God by St. <hi>Peter,</hi>
+               <note place="margin">Acts 5.3, 4.</note> ſpeaking to <hi>Ananias</hi> in theſe Words, <hi>Why hath Satan filled thine heart to lye to the Holy Ghoſt? Thou haſt not lyed unto men, but unto God:</hi> And by St. <hi>Paul,</hi> when he ſaith,<note place="margin">1 Cor. 3.16.</note> 
+               <hi>Know ye not that ye are the temple of God, and that the ſpirit of God dwelleth in you?</hi> Which Words plainly ſhew, that the <hi>Spirit,</hi> or the <hi>Holy Ghoſt,</hi> is that God which dwells in his People.</p>
+            <p>Yea, the incommunicable Name <hi>Jehovah</hi> is alſo given to him.<note place="margin">Numb. 12.6.</note> God ſaith, <hi>If there be a Prophet among you, I the Lord will make my ſelf known unto him in a viſion, and will ſpeak unto him in a dream.</hi> But this <hi>Lord</hi> (or <hi>Jehovah</hi>) is to be underſtood of the <hi>Holy Ghoſt,</hi> as appears from the Words of St. <hi>Peter,</hi>
+               <note place="margin">2 Pet. 1.21.</note> 
+               <hi>The prophecy came not in old times by the will of man; but holy men of God ſpake as they were moved by the Holy Ghoſt.</hi>
+            </p>
+            <pb n="25" facs="tcp:49912:13"/>
+            <p n="2">2. The Properties or Perfections of God are aſcrib'd to him; as his Eternity, <hi>Heb.</hi> 9.14. where it is ſaid, <hi>Chriſt offered himſelf to God through the eternal ſpirit.</hi> His Infinity is ſuppos'd in thoſe Words of the Apoſtle,<note place="margin">Rom. 8.9.</note> 
+               <hi>Ye are not in the fleſh, but in the ſpirit, if ſo be that the ſpirit of God dwell in you. Now if any man have not the ſpirit of Chriſt, he is none of his:</hi> For that Spirit which may be in all Men, muſt be every where preſent. And that the Holy Ghoſt is ſo, the <hi>Pſalmiſt</hi> alſo intimates, when he ſays,<note place="margin">Pſ. 139.7.</note> 
+               <hi>Whither ſhall I go from thy ſpirit? or whither ſhall I flee from thy preſence?</hi> His Om<g ref="char:EOLhyphen"/>niſcience is aſſerted alſo by St. <hi>Paul,</hi> in theſe Words,<note place="margin">1 Cor. 2.10.</note> 
+               <hi>The ſpirit ſearcheth all things, yea the deep things of God.</hi>
+            </p>
+            <p n="3">3. The Works of God are attributed to the <hi>Holy Ghoſt;</hi> for <hi>Job</hi> ſaith, <hi>by his ſpirit he hath garniſhed the heavens;</hi>
+               <note place="margin">Job 26.13.</note> and the <hi>Pſalmiſt,</hi> that <hi>by him he hath made all the hoſt of them.</hi>
+               <note place="margin">Pſ. 33.6.</note> And our Saviour intimates,<note place="margin">Mat. 12.28.</note> that he <hi>caſt out devils by</hi> his <hi>power</hi> as well as his own. To which I might add (if it were ne<g ref="char:EOLhyphen"/>ceſſary) his inſpiring the Prophets, appointing Biſhops and other Miniſters in the Church, enduing many of them with miraculous Gifts, ſanctifying our Souls, adopting us to be the Children of God, <hi>&amp;c.</hi>
+            </p>
+            <p n="4">4. The Worſhip of God is alſo given to him. St. <hi>Paul</hi> calling him to witneſs what he is about to ſay, <hi>Rom.</hi> 9.1. doth acknowledge his Omniſcience, and perform an Act of Divine Worſhip to him. And he prays to Him, together with the Father, and the Son, in that Bleſſing which con<g ref="char:EOLhyphen"/>cludes his Second Epiſtle to the <hi>Corinthians,</hi> and ſo makes the Three Perſons of the <hi>Trinity</hi> equally Objects of Divine Worſhip, as every Chriſtian doth alſo by receiving Baptiſm in their Names.</p>
+            <p>I have now ſhew'd you, that every One of theſe Three, mention'd in my Text, is <hi>the Great and Moſt High God;</hi> and the Proofs I have cited for that Purpoſe, are ſo plain and
+<pb n="26" facs="tcp:49912:14"/>convincing, that many who were not willing to own the Doctrine of the <hi>Trinity,</hi> and yet could not reſiſt the Evi<g ref="char:EOLhyphen"/>dence of theſe and other Scriptures to the ſame Purpoſe, have thought that theſe Terms, <hi>the Father, Son, and Holy Ghoſt,</hi> were but ſo many ſeveral Names to ſignifie the ſame Perſon. Therefore, to remove this Miſtake, and to give a farther Confirmation to the Truth I have been aſſerting,</p>
+            <p n="2">2. I am come to ſhew, that theſe are not different Names of the ſame Perſon, but Three Subſiſtences or Perſons really diſtinct from one another. And the very Deſign of the A<g ref="char:EOLhyphen"/>poſtle in this Place is enough to prove it; for he brings them in as Three Witneſſes of the <hi>Meſſias,</hi> which Three Names cannot be, in the Senſe which is here intended. So our Saviour ſpeaking of the Father's Teſtimony concerning him,<note place="margin">Joh. 5.32.</note> faith, <hi>There is another that beareth witneſs of me;</hi> and he afterwards tells his Hearers who he is, in theſe Words, <hi>The father himſelf which hath ſent me,</hi>
+               <note place="margin">Ver. 37.</note> 
+               <hi>hath born witneſs of me.</hi> And again,<note place="margin">Chap. 8.16, <hi>&amp;c.</hi>
+               </note> 
+               <hi>If I judge, my judgment is true; for I am not alone, but I and the father that ſent me. It is alſo written in your law, that the teſtimony of two men is true. I am one that bear witneſs of my ſelf, and the father that ſent me beareth wit<g ref="char:EOLhyphen"/>neſs of me.</hi>
+               <note place="margin">Chap. 16.32.</note> And he further tells his Diſciples, <hi>Behold the hour cometh, yea is now come, that ye ſhall be ſcatter'd every one to his own, and ſhall leave me alone; and yet I am not alone, becauſe the father is with me.</hi>
+            </p>
+            <p>We ſee therefore that the <hi>Father</hi> and the <hi>Son</hi> are Two di<g ref="char:EOLhyphen"/>ſtinct Perſons; and that the <hi>Holy Ghoſt</hi> is a Perſon diſtinct from both of them, is evident from thoſe Words of our Saviour,<note place="margin">John 14.16, 17.</note> 
+               <hi>I will pray the father, and he ſhall give you another comforter, that he may abide with you for ever, even the ſpirit of truth,</hi> &amp;c. where Three Perſons are diſtinctly expreſs'd, with different Actions belonging to each of them; the <hi>Son</hi> prays, the <hi>Father</hi> anſwers his Prayer, and gives his Diſciples
+<pb n="27" facs="tcp:49912:14"/>another <hi>Comforter</hi> who ſhall always abide with them. So theſe Three are expreſs'd in the Form of Baptiſm, the Apo<g ref="char:EOLhyphen"/>ſtolical Benediction, and in ſeveral other Places of Scrip<g ref="char:EOLhyphen"/>ture. And it is abſurd to think our Saviour requires us to be baptiz'd into Three Names, and that the Apoſtle in bleſ<g ref="char:EOLhyphen"/>ſing the Church, would uſe Three Names, with particular Diſtinctions to each of them, if he intended but One Per<g ref="char:EOLhyphen"/>ſon.</p>
+            <p n="3">3. I proceed therefore to ſhew what Relation theſe Three Perſons have to each other. And as to the <hi>Father</hi> and the <hi>Son,</hi> their very Names ſuppoſe that the One hath his Being from the Other; not as if he were made by him, for then he could not be Eternal, and therefore not Truly God; but as proceeding from him by Eternal Generation: And hence he is called <hi>the Brightneſs of his Father's Glory, the Word of God,</hi> &amp;c. The <hi>Holy Ghoſt</hi> hath his Being both from the <hi>Fa<g ref="char:EOLhyphen"/>ther</hi> and the <hi>Son,</hi> as eternally proceeding from them: For our Saviour tells his Diſciples,<note place="margin">Joh. 14.26.</note> That he proceeds from the <hi>Father,</hi> that he himſelf will ſend him, and that the <hi>Father</hi> will ſend him in his Name.<note place="margin">Chap. 15.26.</note> And St. <hi>Paul</hi> calls him <hi>the Spirit of Chriſt, and of the Son.</hi>
+               <note place="margin">Rom. 8.9.</note> Therefore we have the ſame Rea<g ref="char:EOLhyphen"/>ſon to believe the <hi>Spirit</hi> proceeds from the <hi>Son,</hi>
+               <note place="margin">Gal. 4.6.</note> as from the <hi>Father.</hi> As the Relation therefore between the <hi>Father</hi> and the <hi>Son</hi> is founded upon that Eternal Generation by which the <hi>Son</hi> hath his Being from the <hi>Father;</hi> ſo the Relation of the <hi>Holy Ghoſt</hi> to them both, is founded upon that Eternal Spiration whereby he hath his Being from them. But what this Generation and this Spiration is, as alſo the manner of each Perſon's ſubſiſting diſtinctly in the ſame Divine Nature, I may ſay with the Prophet <hi>Iſaiah, who ſhall declare it?</hi>
+               <note place="margin">Iſa. 53.8.</note>
+            </p>
+            <p n="4">4. I am to prove, That theſe Three are One God. And this is evident from all thoſe Places of Scripture where God
+<pb n="28" facs="tcp:49912:15"/>is ſaid to be but One:<note place="margin">Deut. 6.4. Chap. 4.35. Iſa. 45.5.</note> As, <hi>Hear, O Iſrael, the Lord our God is one Lord. <g ref="char:V">Ʋ</g>nto thee it was ſhew'd, that thou mightest know that the Lord he is God; there is none elſe beſides him. I am the Lord, and there is none elſe, there is no God beſides me. There is one God and Father of all,</hi>
+               <note place="margin">Eph. 4.6.</note> 
+               <hi>who is above all, and through all, and in you all,</hi> &amp;c. To which we may add, that our Saviour ſeveral times affirms, that <hi>He</hi> and the <hi>Father</hi> are One; and that <hi>He</hi> is in the <hi>Father,</hi> and the <hi>Father</hi> in <hi>Him.</hi> And as this Unity of the Godhead is ſo plainly aſſerted in Holy Scriptures, ſo it is alſo taught by the Law of Nature; for what is Infinite and Omnipotent can be but One, for it is againſt the Nature of Infinity to be in more; and if One can do all things, there is no need of any other. There<g ref="char:EOLhyphen"/>fore it was the Opinion of the wiſeſt Heathens, that <hi>there is but One God,</hi> tho' they ſuffer'd the People, who were fond of Superſtitions, to worſhip many.</p>
+            <p>Thus we ſee the <hi>Trinity</hi> of Perſons in the Unity of the Divine Nature is plainly aſſerted in many Scriptures; ſo that it theſe Words of my Text had been quite loſt, through the Malice of Hereticks, the Miſtake of Tranſcribers, or any other Accident, the Doctrine contain'd in them would fully appear in the Places before-mention'd, and many others: For as often as the Scripture attributes to each of theſe Three the Names, Properties, Works, or Worſhip of God, it aſſerts them to be ſo many Divine Perſons; and where ever it affirms <hi>there is but One God,</hi> it teaches us that <hi>theſe Three are One:</hi> And therefore we may juſtly wonder ſo much Offence hath been taken by ſome Men at ſeveral Expreſ<g ref="char:EOLhyphen"/>ſions in the <hi>Athanaſian Creed;</hi> as, <hi>The Father is God, the Son is God, and the Holy Ghost is God; and yet they are not Three Gods, but One God,</hi> &amp;c. Theſe Expreſſions they are bold to charge with Contradiction, and yet they cannot deny that the Scripture plainly aſſerts the ſame many times over; and therefore they would do well to conſider upon whom this Charge of Contradictions muſt light.</p>
+            <pb n="29" facs="tcp:49912:15"/>
+            <p>And their Boldneſs is the greater, not only for the Plain<g ref="char:EOLhyphen"/>neſs of Revelation in this Caſe, and the Greatneſs and Ex<g ref="char:EOLhyphen"/>cellency of the Subject ſo treated by them; but becauſe it is far above the Judgment of their Reaſon: For a Man muſt underſtand the Nature of an Infinite Mind, or Spirit, and what is the true Notion of different Hypoſtaſes or Perſons in that Nature, before he can ſay it is a Contradiction to aſ<g ref="char:EOLhyphen"/>ſert them. Therefore they would better employ their Rea<g ref="char:EOLhyphen"/>ſon in finding out ſuch Contradictions they are ſit to judge of, and I will put them in mind what looks very like one, and that is, to acknowledge the Divine Authority of the Scriptures, and yet deny ſome Doctrines plainly deliver'd in them, becauſe they cannot underſtand the manner of thoſe things that are aſſerted by them; and tho' they ſay they do underſtand it, yet this ſhews their Boldneſs and Ignorance the more, when we know the wiſeſt of them will be eaſily puzzl'd about the meaneſt Production in Nature, and may find a thouſand things in themſelves to baffle their Reaſon; and therefore it muſt be very unfit to judge of the Divine Nature and Sibſseveral timesſtence. And if we obſerve what ways they take to evade thoſe plain Scriptures before-mention'd, we ſhall quickly ſee their Reaſon is not very formidable in Mat<g ref="char:EOLhyphen"/>ters of Faith, whatſoever it may be in other things: For ſome of them they deny to be Scripture (as they do theſe Words of my Text,) others they put ſuch ſtrain'd and fo<g ref="char:EOLhyphen"/>reign Interpretations upon, and uſe ſuch miſerable Shifts to eſcape the Force of them, that one would think they are paſſionately in love with Hereſie that defend it at this rate. But theſe Things have been anſwer'd, to their Shame, by ſeveral worthy Authors, and I hope alſo to the Conviction of ſome of them.</p>
+            <p>Their Exception againſt the Word <hi>Perſon,</hi> as applied to theſe Three in my Text, is alſo impertinent: For he to whom thoſe Names, Actions, and Prerogatives, before-mention'd,
+<pb n="30" facs="tcp:49912:16"/>do belong, muſt be a Perſon, tho' he were not call'd ſo in Holy Scripture.<note place="margin">Heb. 1.3</note> But the <hi>Father</hi> is there term'd a <hi>Perſon,</hi> when the Son is call'd <hi>the expreſs Image (<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>) of his Perſon;</hi> and it's hard if a <hi>Son,</hi> who hath all the Perfections of his <hi>Father,</hi> may not be call'd a <hi>Perſon</hi> too. But whether theſe captious Men will, or no, the Scripture hath given him that Denomination, with reſpect to his Divinity, 2 <hi>Cor.</hi> 2.10. <hi>If I forgave any thing, to whom I forgave it, for your ſakes forgave I it (<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>) in the Perſon of Chriſt:</hi> Where the Apoſtle affirms, that when he forgave or abſolv'd a Penitent, he did it in the <hi>Perſon</hi> of Chriſt, that is, in his Name, as his Deputy and Repreſen<g ref="char:EOLhyphen"/>tative, who, as God, hath Power to forgive Sins. From theſe Places there is Warrant for thoſe Terms, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which the <hi>Greek</hi> Fathers commonly us'd to ſignifie a <hi>Perſon</hi> in the <hi>Trinity.</hi> And when we find them thus applied to the <hi>Father</hi> and the <hi>Son,</hi> who can deny them to the <hi>Holy Ghost,</hi> ſince the Glorious Properties and Works of the <hi>Deity</hi> are alſo aſcrib'd to him?</p>
+            <p>Thus have I given you ſome Account of the Doctrine of the <hi>Trinity,</hi> as it is diſcover'd to us in Holy Scriptures, which hath been conſtantly believ'd and defended by the Churches of Chriſt in all Ages. And ſeeing we have ſuch Evidence from Scripture, and ſo General a Conſent for the Truth of this Doctrine, we may with great Satisfaction believe and confeſs it. And becauſe our Faith in the <hi>Trinity</hi> is of the greateſt moment to us (as we are aſſur'd alſo from the Scrip<g ref="char:EOLhyphen"/>ture) and very much for the Honour of our Religion, and the Author of it, we ought zealouſly to defend it againſt thoſe <hi>Antichrists</hi> in our Days (as St. <hi>John</hi> calls them) <hi>who deny the Father and the Son.</hi>
+               <note place="margin">1 John 2.22.</note>
+            </p>
+            <p n="2">2. I ſhould now ſay ſomething of the Record that theſe Three bear, that <hi>Jeſus is the Christ the Son of God.</hi> But this will not require much Proof after that which hath been gi<g ref="char:EOLhyphen"/>ven o<gap reason="illegible" resp="#UOM" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ly concerning his Divine Nature, and doth conſiſt
+<pb n="31" facs="tcp:49912:16"/>of Teſtimonies from the Three ſeveral Perſons of the <hi>Trinity.</hi> Therefore to theſe I ſhall only add, That this is witneſſed by them to the Saints and Angels in Heaven, who have the Bea<g ref="char:EOLhyphen"/>tiſick Viſion of the Glorious <hi>Trinity,</hi> and particularly of the Divinity of Chriſt united with his Human Nature. It hath been atteſted from Heaven, by the Voice of God the Fa<g ref="char:EOLhyphen"/>ther, at our Saviour's Baptiſm and Transfiguration; aſſerted by Chriſt himſelf ſeveral times, who ſaid also, that he <hi>came from God, and was one with him;</hi> and manifeſted by the Ho<g ref="char:EOLhyphen"/>ly Ghoſt, when he deſcended upon Chriſt in a viſible Shape at his Baptiſm, and upon the Diſciples in a miraculous man<g ref="char:EOLhyphen"/>ner, according to our Saviour's Promiſe. From whence it appears, that as theſe Three are One in their Eſſence or Na<g ref="char:EOLhyphen"/>ture, ſo alſo in their Teſtimony concerning the <hi>Meſſias,</hi> which ſome think is only meant by thoſe Words, <hi>Theſe Three are One.</hi> But becauſe they are true in an higher Senſe (as I have prov'd to you) and the Words are in a General Form, they ought chiefly to be underſtood of that, and from hence an Unity in their Record or Teſtimony will neceſſarily follow.</p>
+            <p>The Holy Ghoſt doth alſo conſtantly give this Teſtimony in the Holy Scriptures, and in his Effects upon the Hearts of his People: Which may probably be meant of that Witneſs which he is ſaid to bear in Earth at the 8th. <hi>Verſe</hi> of this <hi>Chapter;</hi> and one of theſe Effects is afterwards mention'd, <hi>Ver.</hi> 10. <hi>He that believeth on the Son of God, hath the witneſs in himſelf.</hi> Let us therefore daily pray to God for this excel<g ref="char:EOLhyphen"/>lent Grace, which will aſſure us of the Truth of ſuch Do<g ref="char:EOLhyphen"/>ctrines as we cannot comprehend. And that we may receive it, together with an Improvement in all Divine Knowledge, let us ſincerely do all thoſe Duties God requires of us, and then he will certainly diſcover himſelf, and the Myſteries of Salvation more to us.</p>
+            <p>
+               <hi>Now to the Ever-bleſſed and Glorious Trinity, the Father, the Word, and the Holy Ghost, Three Perſons, and One Eternal and Only Wiſe God, be all Honour, Praiſe, and Dominion, both now and for ever.</hi> Amen.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:49912:17"/>
+            <head>BOOKS Printed for <hi>John Lawrence,</hi> at the <hi>Angel</hi> in the <hi>Poultry.</hi>
+            </head>
+            <p>
+               <hi>Two Sermons by the Reverend Mr.</hi> John Howard. THE True Intereſt of a Nation: Or, The Duty of Magi<g ref="char:EOLhyphen"/>ſtrates, Miniſters, and People, in order to the further Set<g ref="char:EOLhyphen"/>tlement and Proſperity of theſe Kingdoms. A Sermon preach'd at the Aſſizes held at <hi>Buckingham, July</hi> the 5th. 1692.</p>
+            <p>The Evil of our Days, with the Remedy of it. A Sermon preach'd at a Viſitation at <hi>Ruthwel</hi> in <hi>Northamptonſhire, Octob.</hi> 12.1697.</p>
+            <p>MR. <hi>Pool</hi>'s Engliſh Annotations on the Whole <hi>Bible;</hi> wherein the Sacred Text is inſerted, together with the various Read<g ref="char:EOLhyphen"/>ings and Parallel Scriptures, <hi>&amp;c.</hi> In Two Volumes. <hi>Folio.</hi>
+            </p>
+            <p>The Works of the late Reverend Mr. <hi>Stephen Charnock.</hi> In Two Volumes. <hi>Iolio.</hi>
+            </p>
+            <p>The Life of the Reverend Mr. <hi>Richard Baxter;</hi> with the Hiſtory of the Times he lived in. Written by himſelf, and publiſhed by Mr. <hi>Matthew Sylveſter.</hi> In <hi>Folio.</hi>
+            </p>
+            <p>Mr. <hi>Lorrimer</hi>'s Apology for the Miniſters who ſubſcribed only unto the Stating of the Truths and Errors in Mr. <hi>Williams</hi>'s Book, from the Exceptions made againſt them by Mr. <hi>Trail. Quarto.</hi>
+            </p>
+            <p>—His Remarks on Mr. <hi>Goodwin</hi>'s Diſcourſe; Proving, That the Goſpel-Covenant is a Law of Grace: And anſwering the Ob<g ref="char:EOLhyphen"/>jections to the contrary, <hi>&amp;c. Quarto.</hi>
+            </p>
+            <p>Mr. <hi>Shower</hi>'s Thankſgiving-Sermon on the Diſcovery of the Aſſaſ<g ref="char:EOLhyphen"/>ſination-Plot, <hi>April</hi> the 16th. 1696. <hi>Quarto.</hi>
+            </p>
+            <p>—His Mourners Companion: Or, Funeral Diſcourſes on ſe<g ref="char:EOLhyphen"/>veral Texts. The Second Edition. In Two Parts. <hi>Octavo.</hi>
+            </p>
+            <p>—His Sermons on <hi>Iſaiah</hi> 55.7, 8, 9. God's Thoughts and Ways above ours, eſpecially in the Forgiveneſs of Sins. <hi>Octavo.</hi>
+            </p>
+            <p>—His Sermon at the Funeral of Mr. <hi>Nath. Oldfield, Dec.</hi> 31. 1696. <hi>Octavo.</hi>
+            </p>
+            <p>A Preſervative againſt <hi>Deiſm:</hi> Shewing the great Advantage of Revelation above Reaſon, in the two Great Points, Pardon of Sin, and a Future State of Happineſs. With an Appendix, in Anſwer to a Letter of <hi>A. W.</hi> againſt Revealed Religion, in the Oracles of Reaſon. <hi>Octavo.</hi>
+            </p>
+            <p>A Diſcourſe of the Nature and Neceſſity of Faith in Jeſus Chriſt: With an Anſwer to the Pleas of our modern <hi>
+                  <g ref="char:V">Ʋ</g>nitarians,</hi> for the Sufficiency of bare Morality or meer Charity to Salvation. <hi>Octavo.</hi>
+            </p>
+            <p>A Brief Diſcourſe of Infant Baptiſm. <hi>Twelves. Theſe Three laſt by the Reverend Mr.</hi> Nathanael Taylor.</p>
+            <p>The Whole Duty of Man Epitomiz'd, for the Benefit of the Poor; with ſelect Prayers, ſuited to every Petition. In <hi>Twenty fours.</hi> Price Bound, <hi>Six Pence.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
